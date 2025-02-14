@@ -132,7 +132,7 @@
     <ClInclude Include="shellcode.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="raw.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="shellcode.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
